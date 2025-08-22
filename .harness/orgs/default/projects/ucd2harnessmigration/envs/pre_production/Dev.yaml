@@ -2,5 +2,5 @@ environment:
   name: Dev
   identifier: Dev
   orgIdentifier: default
-  projectIdentifier: ucd-2-harness-migration
+  projectIdentifier: ucd2harnessmigration
   type: PreProduction
