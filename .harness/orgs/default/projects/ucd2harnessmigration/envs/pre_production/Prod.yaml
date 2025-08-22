@@ -1,12 +1,12 @@
-environment:
-  name: Prod
-  identifier: Prod
-  orgIdentifier: default
-  projectIdentifier: ucd2harnessmigration
-  type: Production
-environment:
-  name: QA
-  identifier: QA
-  orgIdentifier: default
-  projectIdentifier: ucd2harnessmigration
-  type: PreProduction
+environments:
+  - name: Prod
+    identifier: Prod
+    orgIdentifier: default
+    projectIdentifier: ucd2harnessmigration
+    type: Production
+
+  - name: QA
+    identifier: QA
+    orgIdentifier: default
+    projectIdentifier: ucd2harnessmigration
+    type: PreProduction
