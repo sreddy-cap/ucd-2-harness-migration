@@ -4,3 +4,9 @@ environment:
   orgIdentifier: default
   projectIdentifier: ucd2harnessmigration
   type: Production
+environment:
+  name: QA
+  identifier: QA
+  orgIdentifier: default
+  projectIdentifier: ucd2harnessmigration
+  type: PreProduction
