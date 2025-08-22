@@ -2,5 +2,5 @@ environment:
   name: Prod
   identifier: Prod
   orgIdentifier: default
-  projectIdentifier: Demo
+  projectIdentifier: ucd2harnessmigration
   type: Production
