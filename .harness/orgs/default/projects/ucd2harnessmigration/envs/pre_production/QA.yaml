@@ -2,5 +2,5 @@ environment:
   name: QA
   identifier: QA
   orgIdentifier: default
-  projectIdentifier: Demo
+  projectIdentifier: ucd2harnessmigration
   type: PreProduction
